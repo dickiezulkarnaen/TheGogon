@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gogon Cell</string>
+    <string-array name="pulsa_layout_arrays">
+        <item>5,000</item>
+        <item>10,000</item>
+        <item>20,000</item>
+        <item>25,000</item>
+        <item>50,000</item>
+        <item>100,000</item>
+    </string-array>
+
+    <string-array name="axis_array">
+        <item>AXK1</item>
+        <item>AXK2</item>
+        <item>AXK3</item>
+        <item>AXK5</item>
+    </string-array>
+
+    <string-array name="telkomsel_array">
+        <item>SG50</item>
+        <item>SG100</item>
+    </string-array>
+
+    <string-array name="indosat_array">
+        <item>IFR2</item>
+        <item>IFR4</item>
+        <item>IFR8</item>
+        <item>IFR12</item>
+    </string-array>
+
+    <string-array name="xl_array">
+        <item>XXC6</item>
+        <item>XXC12</item>
+        <item>XXC18</item>
+        <item>XXC30</item>
+        <item>XXC42</item>
+    </string-array>
+
+    <string-array name="three_array">
+        <item>TIK1</item>
+        <item>TIK2</item>
+        <item>TIK3</item>
+        <item>TIK4</item>
+        <item>TIK5</item>
+        <item>TIK6</item>
+        <item>TIK8</item>
+        <item>TIK10</item>
+    </string-array>
+
+    <string-array name="smart_array">
+        <item>MSP50</item>
+        <item>MSP60</item>
+        <item>MSP75</item>
+        <item>MSP100</item>
+        <item>MSP150</item>
+    </string-array>
+
+    <string-array name="bolt_array">
+        <item>DBL1500</item>
+        <item>DBL3000</item>
+        <item>DBL8000</item>
+        <item>DBL13000</item>
+        <item>DBL17000</item>
+    </string-array>
+</resources>
